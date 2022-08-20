@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* .paraStyle {
+  color: gray;
+  text-align: left;
+  padding: 0 10px;
+  transition: 0.2s;
+}
+.paraStyle:hover {
+  color: white;
+} */
+.bgimg {
+  background-image: url("/images/macbook-ipad-iphone-ipod\ \(2\).jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+button {
+  border: none;
+  background-color: cadetblue;
+  color: #fff;
+  padding: 12px 20px;
+  border-radius: 4px;
+  text-align: center;
+  font-size: 15px;
+}
